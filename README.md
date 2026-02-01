@@ -221,7 +221,7 @@ This project is proprietary software developed by Ionic Errrrs Code.
   
 ### Made with ❤️ using Flutter
 
-**Quiz Master: Trivia & GK** © 2024 Ionic Errrrs Code
+**Quiz Master: Trivia & GK** © 2026 Ionic Errrrs Code
 
 [Download Now](https://play.google.com/store/apps/details?id=com.ionicerrrrscode.quizmaster&pcampaignid=web_share) • [Report an Issue](../../issues)
 
